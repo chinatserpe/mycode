@@ -4,6 +4,7 @@ Tracking my Alta3 codes
 
 ##Description
 Project is to practice python for Alta3 class and more
+Looking to learn more about how to version control projects with git. 
 
 ## Getting Started
 
